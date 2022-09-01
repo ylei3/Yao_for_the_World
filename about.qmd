@@ -1,9 +1,13 @@
 ---
 title: "About"
+about: 
+  template: jolla
+  image: yoga.jpg
+  links: 
+    - icon: linkedin
+      text: linkedin
+      href: http://www.linkedin.com
+    - icon: github
+      text: Gitbub
+      href: https:..github.com  
 ---
-
-About this site
-
-```{r}
-1 + 1
-```
